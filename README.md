@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=407947&center=true&vCenter=true&width=492&height=60&lines=Software+Engineer;Laravel+Developer;Backend+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=407947&center=true&vCenter=true&width=492&height=20&lines=Software+Engineer;Laravel+Developer;Backend+Developer"/>
 </p>
 
 <br>
