@@ -11,7 +11,7 @@
 <br>
 
 <h2 align="left"> 👨 About me</h2>
-<p>👨‍🎓 I'm a software engineering graduate
+<p>👨‍🎓 I'm a software engineering.
 <br>💫 I'm a back-end web developer and I'm currently learning nodejs.
 <br>🎮 Besides all that, I love video games, music, and movies.
 <br>👩‍💻 I'm constantly learning.
